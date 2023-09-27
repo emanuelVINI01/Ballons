@@ -1,0 +1,4 @@
+not_have_permission: "&cYou not have permission to do that."
+already_have_balloon: "&cThis item already have a balloon."
+balloon_applied: "&aYou have applied {balloon} to item!"
+already_have_active: "&cYou already have this balloon type active."

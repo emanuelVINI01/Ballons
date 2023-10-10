@@ -1,0 +1,7 @@
+equipable:
+  - DIAMOND_SWORD
+  - DIAMOND_HELMET
+lead: false
+# BLESS will remove the effects below
+bad_effects:
+  - "BLINDNESS"

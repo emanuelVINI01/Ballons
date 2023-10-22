@@ -1,0 +1,9 @@
+name: Balloons
+main: com.emanuelvini.balloons.Balloons
+version: 1.0.0
+api-version: 1.13
+softdepend:
+  - EcoEnchants
+  - EliteEnchantments
+  - AdvancedEnchantments
+author: emanuelVINI

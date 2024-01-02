@@ -1,0 +1,10 @@
+item:
+  name: "&aTest Balloon"
+  lore:
+    - "&eTest Balloon!"
+  head_texture: "http://textures.minecraft.net/texture/9b5871c72987266e15f1be49b1ec334ef6b618e9653fb78e918abd39563dbb93"
+effects:
+  - "BLESS"
+  - "BOMBER:5:5:10:true:5:&aYou have freezed {target}!:&cYou have been freezed!"
+lore-add:
+  - "TEST"
